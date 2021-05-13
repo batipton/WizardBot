@@ -1,0 +1,46 @@
+{
+  "sparks": {
+    "name": "sparks",
+    "type": "attack",
+    "chance": 0.9,
+    "damage": 2,
+    "protection": 0,
+    "mana": 1
+  },
+  "flinch": {
+    "name": "flinch",
+    "type": "defensive",
+    "chance": 0.25,
+    "damage": 0,
+    "protection": 1,
+    "mana": 0
+  },
+  "punch": {
+    "name": "punch",
+    "type": "attack",
+    "chance": 0.5,
+    "damage": 1,
+    "protection": 0,
+    "mana": 0
+  },
+  "shield": {
+    "name": "shield",
+    "type": "defensive",
+    "chance": 0.9,
+    "damage": 0,
+    "protection": 1,
+    "mana": 1
+  },
+  "heal": {
+    "name": "heal",
+    "type": "general",
+    "healing": 3,
+    "absorption": 0
+  },
+  "meditate": {
+    "name": "meditate",
+    "type": "general",
+    "healing": 0,
+    "absorption": 3
+  }
+}
