@@ -8,6 +8,8 @@ client.commands = new Discord.Collection();
 
 const cooldowns = new Discord.Collection();
 
+//testing
+
 const mongoose = require('mongoose');
 const { mongoPass } = require('./config.json');
 const DEFAULT_HEALTH = 10;
